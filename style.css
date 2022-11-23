@@ -1,0 +1,20 @@
+#wrap {
+    width: 80%;
+    height: 500px;
+    margin: 0 auto;
+    border: 1px solid green;
+}
+#mydiv {
+    position: absolute;
+    z-index: 9;
+    background-color: #f1f1f1;
+    border: 1px solid black;
+    border-radius: 8px;
+    text-align: center;
+}
+
+#mydivheader {
+    padding: 10px;
+    cursor: grab;
+    z-index: 10;
+}
